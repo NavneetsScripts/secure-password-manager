@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.env
+.venv/
+venv/
+env/
+.build/
+build/
+dist/
+*.egg-info/
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project data (do NOT commit secrets)
+vault/
+secrets/
